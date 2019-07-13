@@ -26,3 +26,4 @@ Solutions to selected Programming Contest Problems
 1. [Topcoder Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 2. [GeeksForGeeks](https://www.geeksforgeeks.org/)
 3. [Codemonk Series by Hackerearth](https://www.hackerearth.com/practice/codemonk/)
+4. Refer to [this](https://github.com/ighosh98/DSA-codes/tree/master/lab4) to understand how dynamic memory allocation works. Go through all the functions very carefully. 
