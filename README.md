@@ -9,17 +9,17 @@ Solutions to selected Programming Contest Problems
 5. [IITB DSA using c++ on edx](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.2x+1T2018/course/)
 
 ### Websites for contests
-1. [Codeforces](https://codeforces.com/): Sort by difficulty or problem class and start solving. Very competit8ive and high quality contests.
+1. [Codeforces](https://codeforces.com/): Sort by difficulty or problem class and start solving. Very competitive and high quality contests.
 2. [Codechef](http://codechef.com)
 3. [Hackerrank(For Basics)](https://hackerrank.com)
 4. [AtCoder](https://atcoder.jp/)
 5. [Hackerearth](https://www.hackerearth.com): Refer to the [Codemonk series](https://www.hackerearth.com/practice/codemonk/)
-6. [Topcoder](https://www.topcoder.com/) : Hardest Platform
+6. [Topcoder](https://www.topcoder.com/) : Hardest Platform. SRMs are really challenging
 ### OJs 
 1. [SPOJ](https://spoj.com/problems/classical/): Sort by number of problems solved and solve the first 200-250 problems
 2. [Interviewbit](http://interviewbit.com) 
 3. [UVA OJ](https://UVA.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=301)
-4. [LeetCode](https://leetcode.com)
+4. [LeetCode](https://leetcode.com):Best for interview prep
 5. [A2OJ](https://a2oj.com/ladder?ID=11) : Ladders contain high quality problems.
 
 ### Useful Resources and Website
