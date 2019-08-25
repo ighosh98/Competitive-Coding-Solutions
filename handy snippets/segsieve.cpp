@@ -45,6 +45,7 @@ vector<int>* sieve()
 		}
 	vector<int>* primes = new vector<int>();
 	primes->eb(2);
+	//print primes in a given range
 	for(int i=3;i<MAX;i+=2)
 	{
 		if(isPrime[i])
