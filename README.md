@@ -27,6 +27,7 @@ Solutions to selected Programming Contest Problems
 2. [GeeksForGeeks](https://www.geeksforgeeks.org/)
 3. [Codemonk Series by Hackerearth](https://www.hackerearth.com/practice/codemonk/)
 4. Refer to [this](https://github.com/ighosh98/DSA-codes/tree/master/lab4) to understand how dynamic memory allocation works. Go through all the functions very carefully. 
+5. [Interview Prep Blog](https://medium.com/@varungarg6781/preparation-for-lateral-hiring-1d19aac437ef)
 ### Dynamic Programming
 1. https://codeforces.com/blog/entry/43256?fbclid=IwAR2wkZJlSPS9NgXwvh9DU5vA2JMcQfvdRoQjXEsRuBUq40ctonYSLZxBJig
 2. https://codeforces.com/blog/entry/325?fbclid=IwAR39NegpmiXiM_qA_vkq8rFbCR-ZX4lzASEcf3waZATqEzgizdiAj9mx28Y
@@ -35,3 +36,16 @@ Solutions to selected Programming Contest Problems
 
 ### Graph Algorithms
 1.https://codeforces.com/blog/entry/16221 
+## System Design Problems
+1. CareerCup[https://www.careercup.com/page?pid=system-design-interview-questions]
+2. GfG
+3. https://github.com/binhnguyennus/awesome-scalability
+4. http://www.aosabook.org/en/distsys.html
+5. https://www.lecloud.net/tagged/scalability
+6. https://lethain.com/introduction-to-architecting-systems-for-scale/
+7. http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
+### Videos
+1. https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2
+2. https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+3. https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u
+4. https://github.com/jayshah19949596/CodingInterviews
