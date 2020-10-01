@@ -5,6 +5,7 @@ Given an n x n matrix and a number x, find the position of x in the matrix if it
 
 Company : Amazon 
 Platform : mettl
+Location : Bangalore
 */
 
 #include <bits/stdc++.h> 
