@@ -1,0 +1,16 @@
+This problem was asked in graknlabs contest.
+Prob:B-Arrays sum.
+sol:
+#include<stdio.h>
+int T,n,k,s,x,a[110];
+int main() {
+	for (scanf("%d",&T); T; --T) {
+		scanf("%d%d",&n,&k),s=0; 
+		for (int i=0; i<=100; ++i) a[i]=0;
+		for (int i=1; i<=n; ++i)
+			scanf("%d",&x),a[x]||(++s,a[x]=1);
+		if (s>k&&k>1) printf("%d\n",(s-k-1)/(k-1)+2);
+		else puts(s<=k?"1":"-1");
+	}
+	return 0;
+}
